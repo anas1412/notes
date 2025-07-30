@@ -32,3 +32,5 @@ Here, you will find insights forged in the crucible of high-stakes personal expe
 - [Reality Transurfing: Navigating the Waves of Your Reality](./docs/reality-transurfing/)
 - [Conclusion: The Path Forward](./docs/conclusion/)
 - [References & Resources](./docs/references-and-resources/)
+
+{{< button relref="./docs/introduction/" >}}Start Reading{{< /button >}}
