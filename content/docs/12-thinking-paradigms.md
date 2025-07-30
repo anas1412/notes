@@ -1,6 +1,6 @@
 ---
 title: "12. Thinking Paradigms: Process, Probability, and Beyond Dualism"
-weight: 130
+weight: 140
 ---
 
 ### How You See the World Shapes Your Reality

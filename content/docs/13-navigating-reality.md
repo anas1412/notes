@@ -1,6 +1,6 @@
 ---
 title: "13. Navigating Reality: The Power of Mental Models"
-weight: 140
+weight: 150
 ---
 
 ### Equipping Your Mind for Complex Journeys

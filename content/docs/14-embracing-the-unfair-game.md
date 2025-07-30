@@ -1,6 +1,6 @@
 ---
 title: "14. Embracing the Unfair Game: Paradox and Contrarian Thinking"
-weight: 150
+weight: 160
 ---
 
 ### Navigating Life's Inherent Imbalance

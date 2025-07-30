@@ -1,6 +1,6 @@
 ---
 title: "17. Conclusion: The Path Forward"
-weight: 180
+weight: 190
 ---
 
 We have journeyed together through the intricate landscape of the mind, dissecting the paradigms that shape our reality and equipping ourselves with the tools for profound transformation. From understanding the interplay of the Rider and the Horse, to embracing the power of self-image, navigating emotional intelligence, and cultivating the engine of progress, these notes have laid bare the principles for mastering your inner game.

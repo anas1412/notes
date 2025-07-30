@@ -1,6 +1,6 @@
 ---
 title: "15. The Be-Do-Have Model: Attracting Your Reality"
-weight: 160
+weight: 170
 ---
 
 ### Flipping the Script: The Power of Internal Alignment
