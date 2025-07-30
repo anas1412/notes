@@ -13,6 +13,8 @@ Imagine yourself as the **Rider**—your conscious mind. You are the strategist,
 
 Now, consider your **Horse**—your physical body and, more importantly, your subconscious mind. This is the powerful, instinctual part of you that operates on feelings, habits, and ingrained patterns. The Horse seeks comfort, avoids pain, and can be resistant to change. It learns through repetition and sensation, not abstract thought. While incredibly powerful, it can also be easily spooked by fear, driven by impulsive desires, or stubbornly resistant to new directions.
 
+![The Nuckelavee](/notes/images/the-nuckelavee.png)
+
 > "The body is the instrument of our soul, and the mind is its conductor."
 > — B.K.S. Iyengar
 
