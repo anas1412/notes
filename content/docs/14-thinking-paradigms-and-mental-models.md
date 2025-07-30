@@ -5,6 +5,9 @@ weight: 150
 
 ### How You See the World Shapes Your Reality
 
+> "We don't see things as they are; we see them as we are."
+> — Anaïs Nin
+
 Our approach to goals, challenges, and even our daily lives is profoundly shaped by how we perceive reality. The mental frameworks, or **thinking paradigms**, we adopt act as filters through which we interpret information and make decisions. Understanding these paradigms, and cultivating a robust toolkit of **mental models**, is crucial for the Seeker, as they dictate our effectiveness and our ability to navigate complexity.
 
 ### Thinking Paradigms: Process, Probability, and Beyond Dualism
@@ -22,6 +25,9 @@ Similarly, consider how we perceive reality: through a **dualistic** or **probab
 
 ### Mental Models: Equipping Your Mind for Complex Journeys
 
+> "What you need is a latticework of mental models in your head. And, with that system, things gradually get to fit together in a way that enhances cognition."
+> — Charlie Munger
+
 Building upon these foundational paradigms, **mental models** are frameworks for thinking that help you simplify and understand the world, allowing you to make better decisions, solve problems more effectively, and anticipate outcomes. They are like different maps for different terrains; having a variety of them prevents you from getting lost and provides a more accurate understanding of reality.
 
 > "The map is not the territory."
@@ -31,8 +37,17 @@ Here are a few essential models to begin with, each offering a unique lens throu
 
 -   **The 80/20 Principle (Pareto Principle):** This model suggests that, for many events, roughly 80% of the effects come from 20% of the causes. It teaches you to identify the vital few activities that yield the most significant results and focus your energy there. This is the art of strategic leverage.
 -   **Inversion:** Instead of thinking forward about how to achieve a goal, think backward. Ask yourself, "What would guarantee failure?" By identifying and avoiding the pitfalls, you often clear the path to success more effectively. As the saying goes, "Invert, always invert."
+
+> "I always say I want to know where I would die so I can never go there."
+> — Charlie Munger
 -   **First-Principles Thinking:** This is the practice of breaking down complex problems into their most basic, foundational elements and reasoning up from there. It allows you to see beyond conventional wisdom, challenge assumptions, and discover innovative solutions.
+
+> "I believe in the discipline of mastering the best that other people have ever figured out. I don't believe in just sitting down and trying to dream it all up yourself. Nobody's that smart."
+> — Charlie Munger
 -   **Circle of Competence:** Know what you know, and more importantly, know what you don't know. Operating within your circle of competence allows you to make decisions from a position of strength and avoid costly mistakes in areas where you lack expertise. It encourages humility and continuous learning.
+
+> "Knowing what you don't know is more useful than being brilliant."
+> — Charlie Munger
 
 ### The Rider's Advanced Navigation Tools
 
@@ -52,7 +67,7 @@ Consider a student preparing for an exam. An outcome-oriented student might only
 
 Early in my trading career, I was intensely outcome-oriented and dualistic. Every trade was either a "win" or a "loss," and my self-worth was tied to the outcome. A losing streak felt like a personal failure, leading to frustration and impulsive decisions. I was constantly chasing the "perfect" trade, and any deviation from my expected profit was a source of immense stress. It was only when I shifted to a process-oriented and probabilistic mindset that my trading transformed. I began to focus on the quality of my analysis and execution (the process), understanding that individual trade outcomes were simply probabilities playing out over time. A losing trade became data, not a personal failing. This shift allowed me to detach from the emotional rollercoaster of short-term results and focus on the long-term journey of consistent improvement.
 
-In this complex and often chaotic world of trading, mental models became indispensable. I remember a period where I was constantly chasing every market signal, feeling overwhelmed by information. Applying the **80/20 Principle** helped me realize that only a few key market indicators and patterns truly mattered, allowing me to filter out noise and focus my analysis. When I faced significant losses, instead of just trying harder, I used **Inversion**: "What did I do that *guaranteed* this loss?" This led me to identify and eliminate self-sabotaging behaviors. **First-principles thinking** allowed me to deconstruct complex market movements into their fundamental supply and demand dynamics, rather than relying on conventional wisdom. And perhaps most importantly, understanding my **Circle of Competence** taught me when to stay out of the market, when to admit I didn't understand a situation, saving me from countless costly mistakes. These models transformed my approach from reactive to strategic, empowering me to navigate uncertainty with greater clarity.
+When I faced significant losses, instead of just trying harder, I used **Inversion**: "What did I do that *guaranteed* this loss?" This led me to identify and eliminate self-sabotaging behaviors. **First-principles thinking** allowed me to deconstruct complex market movements into liquidity seeking algorithm, rather than relying on conventional wisdom. And perhaps most importantly, understanding my **Circle of Competence** taught me when to stay out of the market, when to admit I didn't understand where the price is going, and only trading the nasdaq and the gold market, saving me from countless costly mistakes. These models transformed my approach from reactive to strategic, empowering me to navigate uncertainty with greater clarity.
 
 ### Cultivating Your Cognitive Toolkit
 
@@ -71,4 +86,7 @@ To cultivate more effective thinking paradigms and a robust mental model toolbox
 
 ### The Strategic Advantage of Clear Thinking
 
-Mastering thinking paradigms and mental models provides a strategic advantage in any domain. This intellectual rigor empowers the Rider to guide the Horse with precision and foresight, ensuring that your journey is not just about reaching a destination, but about navigating the terrain with wisdom and skill. This sets the stage for understanding how to embrace the inherent unfairness and paradoxes of life.
+> "The best question is, 'Is there anything I can do to make my whole life and my whole mental process work better?' And I would say that developing the habit of mastering the multiple models which underlie reality is the best thing you can do."
+> — Charlie Munger
+
+Mastering thinking paradigms and mental models provides a strategic advantage in any domain. This intellectual rigor empowers the Rider to guide the Horse with precision and foresight, ensuring that your journey is not just about reaching a destination, but about navigating the terrain with wisdom and skill. However, even with the best tools, our minds can play tricks on us. This sets the stage for understanding the hidden pitfalls of cognitive biases, and how to embrace the inherent unfairness and paradoxes of life.

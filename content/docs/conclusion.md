@@ -1,5 +1,5 @@
 ---
-title: "18. Conclusion: The Path Forward"
+title: "Conclusion: The Path Forward"
 weight: 190
 ---
 
