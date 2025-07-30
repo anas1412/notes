@@ -10,7 +10,7 @@ Here, you will find insights forged in the crucible of high-stakes personal expe
 
 ## Table of Contents
 
-- [Introduction: The Edge of Disgust](./docs/introduction-the-riders-quest-to-the-edge/)
+- [Introduction: The Edge](./docs/introduction-the-riders-quest-to-the-edge/)
 - [01. The Man and His Horse: An Analogy for Mind and Body](./docs/01-the-man-and-his-horse/)
 - [02. Shadow Work: Making the Unconscious Conscious](./docs/02-shadow-work/)
 - [03. The Have-Do-Be Model: The Illusion of External Success](./docs/03-have-do-be-model/)
@@ -26,4 +26,4 @@ Here, you will find insights forged in the crucible of high-stakes personal expe
 - [13. Navigating Reality: The Power of Mental Models](./docs/13-navigating-reality/)
 - [14. Embracing the Unfair Game: Paradox and Contrarian Thinking](./docs/14-embracing-the-unfair-game/)
 - [16. The Symphony of Success: Harmonizing Internal Fulfillment and External Achievement](./docs/16-symphony-of-success/)
-- [17. Conclusion: The Path Forward](./docs/17-conclusion-the-edge-of-transformation/)
+- [Conclusion: The Path Forward](./docs/conclusion-the-edge-of-transformation/)
