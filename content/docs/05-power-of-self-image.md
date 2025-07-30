@@ -7,6 +7,8 @@ weight: 60
 
 Before we fully delve into the transformative Be-Do-Have model, it's crucial to understand the foundational role of your **self-image**. Your self-image is the mental picture you have of yourself—your beliefs about who you are, what you're capable of, and what you deserve. It's the internal blueprint that dictates your actions, shapes your perceptions, and ultimately, determines your results.
 
+![The Mind Stick Man](/notes/images/the-mind.png)
+
 > "Man cannot consistently act beyond what he believes himself to be."
 > — Maxwell Maltz, Psycho-Cybernetics
 
