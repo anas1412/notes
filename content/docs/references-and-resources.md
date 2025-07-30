@@ -1,6 +1,6 @@
 ---
 title: "References and Resources"
-weight: 200
+weight: 220
 ---
 
 ### Expanding Your Journey: Further Reading and Tools
