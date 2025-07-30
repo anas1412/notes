@@ -1,5 +1,5 @@
 ---
-title: "Introduction: The Edge"
+title: "Introduction: The Journey"
 weight: 10
 ---
 
@@ -14,7 +14,7 @@ And what was my reward? The last three months of my already meager salary went u
 
 In that moment, something inside me snapped. It wasn't just disappointment; it was a profound, visceral disgust. Disgust at the injustice, at the betrayal, at the realization that my passion, my dedication, meant nothing in a system that valued control and ego over contribution. I looked at the lines of code, the automation scripts, the very tools I once adored, and felt a chilling hatred for them. My love for coding, for creation, was poisoned.
 
-That was my edge. That was the moment the desire for freedom became a non-negotiable demand. It started as a desperate quest for **time freedom**, which I quickly realized was impossible without **financial freedom**. And the ultimate expression of that, for me, was **location freedom**—the ability to live and work from anywhere in the world, on my own terms.
+That was my journey towards the edge. That was the moment the desire for freedom became a non-negotiable demand. It started as a desperate quest for **time freedom**, which I quickly realized was impossible without **financial freedom**. And the ultimate expression of that, for me, was **location freedom**—the ability to live and work from anywhere in the world, on my own terms.
 
 Trading became one such vehicle, but it quickly exposed a deeper truth: any high-stakes environment, be it the market, a demanding career, or a personal challenge, is merely a mirror, reflecting our own internal state. My biggest enemy wasn't a bad setup; it was a moment of fear, a surge of greed, or a lapse in discipline—universal struggles that transcend any specific field.
 
