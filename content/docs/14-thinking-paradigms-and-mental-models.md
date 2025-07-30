@@ -38,16 +38,10 @@ Here are a few essential models to begin with, each offering a unique lens throu
 -   **The 80/20 Principle (Pareto Principle):** This model suggests that, for many events, roughly 80% of the effects come from 20% of the causes. It teaches you to identify the vital few activities that yield the most significant results and focus your energy there. This is the art of strategic leverage.
 -   **Inversion:** Instead of thinking forward about how to achieve a goal, think backward. Ask yourself, "What would guarantee failure?" By identifying and avoiding the pitfalls, you often clear the path to success more effectively. As the saying goes, "Invert, always invert."
 
-> "I always say I want to know where I would die so I can never go there."
-> — Charlie Munger
 -   **First-Principles Thinking:** This is the practice of breaking down complex problems into their most basic, foundational elements and reasoning up from there. It allows you to see beyond conventional wisdom, challenge assumptions, and discover innovative solutions.
 
-> "I believe in the discipline of mastering the best that other people have ever figured out. I don't believe in just sitting down and trying to dream it all up yourself. Nobody's that smart."
-> — Charlie Munger
 -   **Circle of Competence:** Know what you know, and more importantly, know what you don't know. Operating within your circle of competence allows you to make decisions from a position of strength and avoid costly mistakes in areas where you lack expertise. It encourages humility and continuous learning.
 
-> "Knowing what you don't know is more useful than being brilliant."
-> — Charlie Munger
 
 ### The Rider's Advanced Navigation Tools
 
