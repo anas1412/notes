@@ -19,5 +19,5 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookRepo = 'https://github.com/anas1412/notes'
   BookSection = 'docs'
   BookCommitPath = 'commit'
-  BookEditPath = 'edit/main/content/docs'
+  BookEditPath = 'edit/main/'
   BookSearch = false
