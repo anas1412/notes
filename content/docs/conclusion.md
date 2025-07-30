@@ -3,6 +3,8 @@ title: "Conclusion: The Edge"
 weight: 210
 ---
 
+## So what is exactly the Edge?
+
 > "The journey of a thousand miles begins with a single step."
 > — Lao Tzu
 
