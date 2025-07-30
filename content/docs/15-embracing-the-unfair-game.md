@@ -1,5 +1,5 @@
 ---
-title: "14. Embracing the Unfair Game: Paradox and Contrarian Thinking"
+title: "15. Embracing the Unfair Game: Paradox and Contrarian Thinking"
 weight: 160
 ---
 

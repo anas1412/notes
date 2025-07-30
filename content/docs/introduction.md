@@ -1,5 +1,5 @@
 ---
-title: "Introduction: The Edge of Disgust"
+title: "Introduction: The Edge"
 weight: 10
 ---
 
