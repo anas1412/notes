@@ -4,7 +4,7 @@ title: "Notes from the Edge"
 
 ## Welcome to the Edge
 
-This book is for anyone who seeks true mastery—in their career, relationships, or personal growth. It's for those who understand that genuine, sustainable success isn't found in external validation chasing material gains, but in the profound transformation of one's inner world.
+These notes are for anyone who seeks true mastery—in their career, relationships, or personal growth. It's for those who understand that genuine, sustainable success isn't found in external validation chasing material gains, but in the profound transformation of one's inner world.
 
 Here, you will find insights forged in the crucible of high-stakes personal experience, challenging conventional wisdom and offering a transformative path to profound fulfillment. Your journey into the inner game begins with the pivotal moment that led me to write these notes, detailed in the first chapter.
 
