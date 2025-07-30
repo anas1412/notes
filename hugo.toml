@@ -13,6 +13,9 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   BookTheme = 'auto'
   BookToC = true

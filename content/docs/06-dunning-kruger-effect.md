@@ -7,6 +7,9 @@ weight: 70
 
 As we explore the power of self-image, it's crucial to confront a significant cognitive pitfall: the **Dunning-Kruger effect**. This bias describes a phenomenon where individuals with low ability in a specific area tend to vastly overestimate their competence. In essence, they are too unskilled to recognize their own lack of skill, leading to a dangerous, unearned confidence—often humorously dubbed the "Peak of Mount Stupid."
 
+![The Dunning-Kruger Effect](/images/dunning-kruger.png)
+
+
 > "The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts."
 > — Bertrand Russell
 
