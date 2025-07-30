@@ -9,7 +9,7 @@ This isn't a game. This is a declaration. By clicking that last button, you told
 
 The person you could have been is screaming for you to turn back, and you're putting your hands over your ears. Can you hear it? The sound of your own potential turning to dust?
 
-![Eye](/notes/images/eyes.gif)
+<img src="/notes/images/eyes.gif" alt="A GIF of many stylized eyes blinking and looking around" style="width: 100%; height: auto;">
 
 This is it. The edge of the cliff. One more step and it's over.
 

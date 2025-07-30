@@ -11,7 +11,7 @@ Imagine this: You're on your deathbed, the final moments ticking away. The room 
 
 This is the misery you've earned. This is the emptiness you chose.
 
-![Eye](/notes/images/faces.gif)
+<img src="/notes/images/faces.gif" alt="A GIF showing a rapid succession of stylized, abstract faces" style="width: 100%; height: auto;">
 
 There is no one left to save you. This is your final exit. Are you absolutely sure?
 

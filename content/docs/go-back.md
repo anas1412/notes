@@ -9,7 +9,7 @@ The comfort of your misery is a warm blanket, isn't it? But it's also a shroud. 
 
 Is this really what you want? To look back in five, ten, twenty years and see this exact moment as the point of no return? The instant you gave up for good?
 
-![Eye](/notes/images/eye.gif)
+<img src="/notes/images/eye.gif" alt="A blinking eye, stylized as a GIF" style="width: 100%; height: auto;">
 
 The path forward is right there. Don't let fear chain you to a life you despise.
 
