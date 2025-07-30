@@ -1,0 +1,14 @@
+# Hugo stuff
+/public/
+/resources/
+/hugo_modules/
+/node_modules/
+
+# OS and Editor stuff
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Ignore hugo binaries if you add them
+hugo.exe
