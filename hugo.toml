@@ -22,8 +22,6 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 [menu]
 # [[menu.before]]
 
-
-
 [[menu.after]]
   name = "----------------------------------------------------"
   weight = 20   

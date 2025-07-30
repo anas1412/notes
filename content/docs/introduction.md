@@ -27,3 +27,6 @@ This is why these 'Notes from the Edge' exist. They are the answer to the questi
 This collection challenges the conventional wisdom that leads to burnout and dissatisfaction. We will explore the fundamental paradigms that govern our lives, using a powerful analogy to guide us: your conscious mind is the **Rider**, and your subconscious is the **Horse**. This book is about training the Horse so the Rider can finally steer towards the life you actually want.
 
 Your journey to the edge begins now.
+
+{{<button relref="./go-back/">}}I don't want to{{</button>}}
+{{<button relref="./01-the-man-and-his-horse/">}}Proceed{{</button>}}
