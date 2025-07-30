@@ -1,6 +1,6 @@
 ---
-title: "14.5. Cognitive Biases: The Hidden Architects of Your Decisions"
-weight: 155
+title: "15. Cognitive Biases: The Hidden Architects of Your Decisions"
+weight: 160
 ---
 
 ### The Hidden Architects of Your Decisions
