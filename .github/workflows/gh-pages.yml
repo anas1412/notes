@@ -8,14 +8,16 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Hugo
+      - name: Setup Hugo (extended)
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.148.2'  # match your version, extended if needed
+          hugo-version: '0.148.2'
+          extended: true
 
       - name: Build
         run: hugo --minify
