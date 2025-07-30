@@ -19,8 +19,42 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 
 
+[menu]
+# [[menu.before]]
+
+
+
+[[menu.after]]
+  name = "----------------------------------------------------"
+  weight = 10   
+
+[[menu.after]]
+  name = "Website"
+  url = "https://anas1412.github.io/"
+  weight = 30
+  
+[[menu.after]]
+  name = "Twitter"
+  url = "https://x.com/villainesthetic"
+  weight = 40
+
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/anas1412"
+  weight = 50
+
+
+
+
+
+
+# Needed for mermaid/katex shortcodes
+[markup]
 [markup.goldmark.renderer]
   unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
 
 [params]
   BookTheme = 'auto'
