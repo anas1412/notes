@@ -18,8 +18,10 @@ This isn't about killing your old self or erasing your past. It's about drawing 
 
 They didn't have special powers. They just made a choice. The same one you're making now.
 
+<img src="/notes/images/wake-up.gif" alt="A GIF showing an escape door" style="width: 100%; height: auto;">
+
 > "Let me fall if I must fall. The one I become will catch me."
-> — Ba-Ado
+> — Baal Shem Tov
 
 ### The Work Begins Now
 
