@@ -16,5 +16,5 @@ enableGitInfo = true
   BookRepo = 'https://github.com/anas1412/notes'
   BookSection = 'docs'
   BookCommitPath = 'commit'
-  BookEditPath = 'edit/main/notes'
+  BookEditPath = 'edit/main/notes/content/docs'
   BookSearch = false
