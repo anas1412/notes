@@ -1,5 +1,5 @@
 ---
-title: "Notes from the Edge: Mastering Your Inner Game for Unconventional Success"
+title: "Notes from the Edge"
 ---
 
 ## Welcome to the Edge
