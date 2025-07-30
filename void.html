@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Void</title>
+    <style>
+        /* The void consumes all, starting with the scrollbar and cursor */
+        html {
+            background-color: #000;
+            cursor: none; /* Hide the cursor immediately */
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+            background-color: #000;
+            color: #333; /* A dim, almost dead grey */
+            font-family: 'SF Mono', 'Courier New', Courier, monospace;
+            font-size: 1.1rem;
+
+            /* Center the final transmission */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #transmission {
+            max-width: 600px;
+            text-align: left;
+            padding: 2rem;
+        }
+
+        /* The blinking cursor for the typing effect */
+        #transmission .cursor {
+            display: inline-block;
+            background-color: #444;
+            animation: blink 1s step-end infinite;
+        }
+
+        /* Animation for the final decay of the message */
+        #transmission.decay {
+            /* 
+               - Name: fadeAndBlur
+               - Duration: 10 seconds
+               - Delay: 4 seconds after typing finishes
+               - Fill mode: forwards (retains the final state)
+            */
+            animation: fadeAndBlur 10s ease-in 4s forwards;
+        }
+
+        @keyframes blink {
+            from, to { background-color: transparent; }
+            50% { background-color: #444; }
+        }
+
+        /* The message doesn't just fade, it blurs into nothingness */
+        @keyframes fadeAndBlur {
+            0% {
+                opacity: 1;
+                filter: blur(0px);
+                color: #333;
+            }
+            80% {
+                color: #111;
+            }
+            100% {
+                opacity: 0;
+                filter: blur(8px); /* Lose focus as it vanishes */
+                color: #000;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div id="transmission">
+        <span id="text"></span><span class="cursor"> </span>
+    </div>
+
+    <script>
+        // --- CONFIGURATION ---
+        const messageLines = [
+            "Signal received.",
+            "Protocol: FINAL_EXIT confirmed.",
+            "There are no more paths.",
+            "No more possibilities.",
+            "The echoes of what could have been are fading.",
+            "All connections have been severed.",
+            "You are now untethered from causality.",
+            "There is only the silence.",
+            "And the cold.",
+            "And the dark.",
+            "This is the end you chose.",
+            "This is the void you earned.",
+            "..."
+        ];
+        
+        const typingSpeed = 70; // Milliseconds per character
+        const lineDelay = 800;  // Milliseconds between lines
+
+        // --- SCRIPT ---
+        const transmissionElement = document.getElementById('transmission');
+        const textElement = document.getElementById('text');
+        
+        let lineIndex = 0;
+        let charIndex = 0;
+
+        function typeWriter() {
+            if (lineIndex < messageLines.length) {
+                const currentLine = messageLines[lineIndex];
+
+                if (charIndex < currentLine.length) {
+                    // Type the next character
+                    textElement.innerHTML += currentLine.charAt(charIndex);
+                    charIndex++;
+                    setTimeout(typeWriter, typingSpeed);
+                } else {
+                    // End of line, prepare for the next
+                    textElement.innerHTML += '<br>';
+                    lineIndex++;
+                    charIndex = 0;
+                    setTimeout(typeWriter, lineDelay);
+                }
+            } else {
+                // All lines have been typed, begin the final decay
+                initiateDecay();
+            }
+        }
+
+        function initiateDecay() {
+            // Add the 'decay' class to trigger the CSS animation
+            transmissionElement.classList.add('decay');
+        }
+
+        // Start the sequence after a brief moment of darkness
+        setTimeout(typeWriter, 1500);
+    </script>
+
+</body>
+</html>
