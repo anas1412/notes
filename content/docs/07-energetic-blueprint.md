@@ -7,6 +7,9 @@ weight: 80
 
 Beyond the purely tangible, our internal states—our thoughts, emotions, and beliefs—profoundly influence our physiological responses, cognitive patterns, and behavioral tendencies. This intricate interplay forms a dynamic internal 'blueprint' that shapes how we perceive and interact with the world. Understanding this fundamental principle is key to consciously shaping your reality.
 
+
+![Map of Consciousness](/notes/images/map-of-consciousness.png)
+
 > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 > — Nikola Tesla
 
