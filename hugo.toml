@@ -22,11 +22,16 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 [menu]
 # [[menu.before]]
 
+[[menu.before]]
+  name = "Table of Contents"
+  url = "/"
+  weight = 10
+
 
 
 [[menu.after]]
   name = "----------------------------------------------------"
-  weight = 10   
+  weight = 20   
 
 [[menu.after]]
   name = "Website"
