@@ -30,3 +30,4 @@ Here, you will find insights forged in the crucible of high-stakes personal expe
 - [17. The Be-Do-Have Model: Attracting Your Reality](./docs/17-be-do-have-model/)
 - [18. The Symphony of Success: Harmonizing Internal Fulfillment and External Achievement](./docs/18-symphony-of-success/)
 - [Conclusion: The Path Forward](./docs/conclusion/)
+- [References & Resources](./docs/references-and-resources/)
