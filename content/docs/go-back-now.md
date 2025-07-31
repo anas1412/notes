@@ -2,6 +2,7 @@
 title: "The Point of No Return"
 bookHidden: true
 bookSearchExclude: true
+disable_nav_buttons: true
 ---
 ## You are actively choosing to fail.
 

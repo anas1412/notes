@@ -2,6 +2,7 @@
 title: "Welcome to the Void"
 bookHidden: true
 bookSearchExclude: true
+disable_nav_buttons: true
 ---
 ## And so, you've arrived at the end.
 

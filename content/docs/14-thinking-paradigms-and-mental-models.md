@@ -84,3 +84,4 @@ To cultivate more effective thinking paradigms and a robust mental model toolbox
 > — Charlie Munger
 
 Mastering thinking paradigms and mental models provides a strategic advantage in any domain. This intellectual rigor empowers the Rider to guide the Horse with precision and foresight, ensuring that your journey is not just about reaching a destination, but about navigating the terrain with wisdom and skill. However, even with the best tools, our minds can play tricks on us. This sets the stage for understanding the hidden pitfalls of cognitive biases, and how to embrace the inherent unfairness and paradoxes of life.
+

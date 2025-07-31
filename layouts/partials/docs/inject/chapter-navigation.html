@@ -1,0 +1,14 @@
+{{ if not .Params.disable_nav_buttons }}
+<div style="display: flex; justify-content: space-between; margin-top: 2em;">
+    {{ if .PrevInSection }}
+        <a href="{{ .NextInSection.RelPermalink }}" class="book-btn">Previous</a>
+    {{ else }}
+        <span></span>
+    {{ end }}
+    {{ if .NextInSection }}
+        <a href="{{ .PrevInSection.RelPermalink }}" class="book-btn">Next</a>
+    {{ else }}
+        <span></span>
+    {{ end }}
+</div>
+{{ end }}

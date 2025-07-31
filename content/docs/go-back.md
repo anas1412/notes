@@ -2,6 +2,7 @@
 title: "You're Still Here?"
 bookHidden: true
 bookSearchExclude: true
+disable_nav_buttons: true
 ---
 ## So, you're choosing to stay the same?
 

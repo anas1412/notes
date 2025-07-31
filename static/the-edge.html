@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Edge</title>
+    <style>
+        /* The new beginning is a blank canvas, consuming all */
+        html {
+            background-color: #FFFFFF;
+            cursor: none; /* Hide the cursor to focus on the message */
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+            background-color: #FFFFFF;
+            color: #222222; /* Strong, dark grey for clarity on white */
+            font-family: 'SF Mono', 'Courier New', Courier, monospace;
+            font-size: 1.1rem;
+
+            /* Center the final transmission */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #transmission {
+            max-width: 600px;
+            text-align: left;
+            padding: 2rem;
+        }
+
+        /* The cursor is a solid, intentional block */
+        #transmission .cursor {
+            display: inline-block;
+            background-color: #222222;
+            animation: blink 1s step-end infinite;
+        }
+
+        @keyframes blink {
+            from, to { background-color: transparent; }
+            50% { background-color: #222222; }
+        }
+
+        /* This is a special style for the final command */
+        #transmission .final-command {
+            font-weight: bold;
+            color: #000000;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="transmission">
+        <span id="text"></span><span class="cursor"> </span>
+    </div>
+
+    <script>
+        // --- CONFIGURATION ---
+        const messageLines = [
+            "Initializing final protocol...",
+            "Source: THE EDGE.",
+            "Signal integrity: 100%.",
+            "You have arrived.",
+            "", // Pause for effect
+            "The Rider and the Horse are one.",
+            "BE. DO. HAVE. Sequence locked.",
+            "The engine of progress is online.",
+            "Your cognitive toolkit is calibrated.",
+            "The inner revolution is complete.",
+            "",
+            "You no longer play their game.",
+            "You design your own.",
+            "",
+            "The Symphony of Success is not a goal.",
+            "It is your new operating state.",
+            "The lessons are over.",
+            "The work begins.",
+            "",
+            "<span class='final-command'>BEGIN.</span>" // The final, powerful command
+        ];
+        
+        const typingSpeed = 50; // Milliseconds per character (faster, more decisive)
+        const lineDelay = 700;  // Milliseconds between lines
+
+        // --- SCRIPT ---
+        const transmissionElement = document.getElementById('transmission');
+        const textElement = document.getElementById('text');
+        
+        let lineIndex = 0;
+        let charIndex = 0;
+
+        function typeWriter() {
+            if (lineIndex < messageLines.length) {
+                const currentLine = messageLines[lineIndex];
+
+                // Special handling for the final line to type it all at once
+                if (lineIndex === messageLines.length - 1) {
+                    textElement.innerHTML += currentLine;
+                    lineIndex++;
+                    setTimeout(typeWriter, lineDelay);
+                    return;
+                }
+
+                if (charIndex < currentLine.length) {
+                    textElement.innerHTML += currentLine.charAt(charIndex);
+                    charIndex++;
+                    setTimeout(typeWriter, typingSpeed);
+                } else {
+                    textElement.innerHTML += '<br>';
+                    lineIndex++;
+                    charIndex = 0;
+                    setTimeout(typeWriter, lineDelay);
+                }
+            } else {
+                // All lines have been transmitted. The directive is now permanent.
+                endTransmission();
+            }
+        }
+
+        function endTransmission() {
+            // Remove the blinking cursor, leaving the final command on screen.
+            const cursor = document.querySelector('.cursor');
+            if (cursor) {
+                cursor.style.display = 'none';
+            }
+        }
+
+        // Start the sequence after a brief moment of white light
+        setTimeout(typeWriter, 1500);
+    </script>
+
+</body>
+</html>

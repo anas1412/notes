@@ -32,3 +32,5 @@ To break free from the Have-Do-Be cycle, you must begin to question the fundamen
 ### The Path Beyond External Chasing
 
 The Have-Do-Be model is a treadmill of external chasing, leaving us perpetually unfulfilled. Recognizing this trap is the first step towards a more powerful and sustainable path, one that shifts the focus from external acquisition to internal cultivation. In the next chapter, we will explore a slightly more active, but still often flawed, approach: the Do-Have-Be model.
+
+

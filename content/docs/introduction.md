@@ -1,6 +1,7 @@
 ---
 title: "Introduction: The Journey"
 weight: 10
+disable_nav_buttons: true
 ---
 
 ## Who am I?

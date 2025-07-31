@@ -2,6 +2,7 @@
 title: "A New Beginning"
 bookHidden: true
 bookSearchExclude: true
+disable_nav_buttons: true
 ---
 
 ## A New Beginning
